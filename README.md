@@ -1,4 +1,4 @@
-### Hi there 👋 Thank you for stopping by my profile! I'm Simran, a Computer Science student. I strive to learn something new everyday, polish my skills, travel and surround myself with people with similar interests. Feel free to reach out
+### Hi there 👋 Thank you for stopping by my profile! I'm Simran, a Computer Science student. I strive to learn something new everyday, polish my skills, travel and surround myself with people with similar interests.
 
 - I'm currently learning C
 - How to reach me:
