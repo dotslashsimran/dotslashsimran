@@ -4,7 +4,7 @@
 - How to reach me:
     - Email: simrancodes@protonmail.com
     - Twitter: https://twitter.com/dotslashsimran
- <img src="https://github.com/dotslashsimran/dotslashsimran/blob/main/Untitled%20design.png" img align="right" width=50% height=50%>
+ <img src="https://github.com/dotslashsimran/dotslashsimran/blob/main/Untitled%20design.png" img align="right" width=40% height=40%>
  <img src="https://github-readme-stats.vercel.app/api?username=dotslashsimran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" img align="left"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOTSLASHSIMRAN&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
