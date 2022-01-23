@@ -1,4 +1,4 @@
-### Hi there 👋 Thank you for stopping by my profile! I'm Simran, a Computer Science student. I strive to learn something new everyday, polish my skills, travel and surround myself with people with similar interests.
+### Hi there 👋 Thank you for stopping by my profile! I'm Simran, currently in my first year of Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning. I strive to learn something new everyday, polish my skills, travel and surround myself with like minded people.
 - My pronouns are she/her
 - I'm currently learning Python
 - How to reach me:
