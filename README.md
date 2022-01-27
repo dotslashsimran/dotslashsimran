@@ -8,10 +8,11 @@
 <center>
 
 [![Email](https://img.shields.io/badge/-EMAIL-719FB0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simransachdeva966@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-864879?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran-sachdeva-b88258222/)
-[![Instagram](https://img.shields.io/badge/instagram-d18eb3.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dotslashsimran)
 [![Github](https://img.shields.io/badge/github-689683.svg?style=for-the-badge&logo=github)](https://www.github.com/dotslashsimran)
+[![Instagram](https://img.shields.io/badge/instagram-d18eb3.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dotslashsimran)
 [![Discord](https://img.shields.io/badge/discord-726A95.svg?style=for-the-badge&logo=discord&logoColor=white)](sim#8086)
+[![Twitter](https://img.shields.io/badge/twitter-689683.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dotslashsimran)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-864879?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran-sachdeva-b88258222/)
 [![Medium](https://img.shields.io/badge/medium-88a9bf.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dotslashsimran)
 ---
 
