@@ -39,7 +39,7 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)
 ![FIGMA](https://img.shields.io/badge/-Figma-000?&logo=figma)
 
-**Spotify Playing 🎧**
+**Jams 🎧**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n1fck0i7kza1vm1x30vqh3fyv&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
