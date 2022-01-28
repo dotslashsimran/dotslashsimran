@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=dotslashsimran&color=864879)
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Thank you for stopping by my profile! I'm Simran, currently in my first year of Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning. I strive to learn something new everyday, polish my skills, travel and surround myself with like minded people.
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Thank you for stopping by my profile! I'm Simran, currently in my first year of Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning. I strive to learn something new everyday, polish my skills, travel and surround myself with like minded people :)
 - My pronouns are she/her
 - I'm currently learning Python
 - How to reach me:
