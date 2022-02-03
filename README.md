@@ -6,6 +6,7 @@
     - Email: simrancodes@protonmail.com
     - Twitter: https://twitter.com/dotslashsimran
 <center>
+    
 [![Email](https://img.shields.io/badge/-EMAIL-719FB0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simransachdeva966@gmail.com?subject=[GitHub])
 [![Github](https://img.shields.io/badge/github-689683.svg?style=for-the-badge&logo=github)](https://www.github.com/dotslashsimran)
 [![Instagram](https://img.shields.io/badge/instagram-d18eb3.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dotslashsimran)
