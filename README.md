@@ -20,7 +20,7 @@
 
 
  <img src="https://github.com/dotslashsimran/dotslashsimran/blob/main/Untitled%20design.png" img align="right" width=30% height=30%>
- <img src="https://github-readme-stats.vercel.app/api?username=dotslashsimran&&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515" img align="left"> 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n1fck0i7kza1vm1x30vqh3fyv&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=n1fck0i7kza1vm1x30vqh3fyv&redirect=true)
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOTSLASHSIMRAN&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515">
  
  ---
