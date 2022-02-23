@@ -14,7 +14,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-689683.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dotslashsimran)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-864879?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran-sachdeva-b88258222/)
 [![Medium](https://img.shields.io/badge/medium-88a9bf.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dotslashsimran)
-[![Musicboard](https://img.shields.io/badge/musicboard-88a9bf.svg?style=for-the-badge&logo=medium&logoColor=white)](https://musicboard.app/simrann)
+[![Musicboard](https://img.shields.io/badge/musicboard-726A95.svg?style=for-the-badge&logo=rateyourmusic&logoColor=white)](https://musicboard.app/simrann)
 ---
 
 </center>
