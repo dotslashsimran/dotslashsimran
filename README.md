@@ -42,6 +42,7 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)
 ![FIGMA](https://img.shields.io/badge/-Figma-000?&logo=figma)
 
+**My Holopin Collection:**
 [![@dotslashsimran's Holopin board](https://holopin.io/api/user/board?user=dotslashsimran)](https://holopin.io/@dotslashsimran)
 
 ### Spotify Jams🎧
