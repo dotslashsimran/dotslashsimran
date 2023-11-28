@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=dotslashsimran&color=864879)
-### Hi there ! Thank you for stopping by my profile! I'm Simran, currently in my second year of Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning. I strive to learn something new everyday, polish my skills, travel and surround myself with like minded people :)
-- My pronouns are she/her !
-- I'm currently learning Backend web dev with Flask
+### Hi there ! Thank you for stopping by my profile! I'm Simran, currently in my third year of Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning. I strive to learn something new everyday, polish my skills, travel and surround myself with like minded people :)
+- My pronouns are she/her
+- I'm currently learning how to play my roommates ukelele (literally)
 - How to reach me:
     - Email: simrancodes@protonmail.com
     - Twitter: https://twitter.com/dotslashsimran
